@@ -12,5 +12,9 @@
     <string name="hint_confirm_password">Confirmar contraseña</string>
     <string name="txt_button_create_account">Únete</string>
     <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
+    <string name="username_card">Lisandro Gómez</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">0 dias</string>
+    <string name="likenumbercard_card">10 Me Gusta</string>
 
 </resources>
