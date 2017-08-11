@@ -1,4 +1,5 @@
 <resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="edittext_textsize_login">22sp</dimen>
     <dimen name="padding_horizontal_login">32dp</dimen>
@@ -11,5 +12,6 @@
     <dimen name="firstword_textsize_card">15sp</dimen>
     <dimen name="timecard_marginleft_card">5dp</dimen>
     <dimen name="like_margintop_card">10dp</dimen>
+    <dimen name="bottonbar_height">70dp</dimen>
 
 </resources>
