@@ -22,5 +22,9 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="transitionname_picture"><![CDATA[<string name=\"tratransitionnamepicture]]></string>
+    <string name="likesecondword_detail">Me Gusta</string>
+    <string name="titleimagedetail">\"Todo Copas En La Playa\"</string>
+    <string name="loremp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia maximus velit at cursus. In congue, enim ut tristique blandit, risus nisi consequat lorem, a malesuada est nulla vel lacus. Vivamus scelerisque nec est quis egestas. Nunc non purus malesuada, pharetra urna in, maximus nisi. Nunc non neque id mauris elementum semper at vel libero. Morbi blandit lobortis luctus. Ut efficitur vehicula felis eu finibus. Sed a diam eros. In non lectus at mauris eleifend rutrum. Quisque a turpis fringilla, blandit justo eu, mattis leo. Integer nec orci urna. Curabitur et accumsan massa, in laoreet dui. Morbi nec enim est. Donec iaculis egestas quam, vitae tincidunt ante venenatis non. Quisque rutrum lorem vestibulum, sodales leo id, ultrices leo.</string>
 
 </resources>

@@ -11,4 +11,22 @@
     <dimen name="timecard_marginleft_card">5dp</dimen>
     <dimen name="like_margintop_card">10dp</dimen>
     <dimen name="bottonbar_height">70dp</dimen>
+    <dimen name="appbarlayout_height">250dp</dimen>
+    <dimen name="textsize_usernamedetail">25sp</dimen>
+    <dimen name="textsize_likenumberdetail">15sp</dimen>
+    <dimen name="marginleft_secondword">7dp</dimen>
+    <dimen name="height_divider">1dp</dimen>
+    <dimen name="padding_horizontal_textcontentdetail">35dp</dimen>
+    <dimen name="textsize_username_profile">30dp</dimen>
+    <dimen name="dimen_circleimage_profile">160dp</dimen>
+    <dimen name="margin_circleimage_profile">30dp</dimen>
+    <dimen name="elevation_circleimage_profile">10dp</dimen>
+    <dimen name="limitY_circleimage">-206dp</dimen>
+    <dimen name="margintoptoolbar_circleimageprofile">-15dp</dimen>
+    <dimen name="width_circleimagetoolbar">40dp</dimen>
+    <dimen name="textsize_usernametoolbarprofile">18dp</dimen>
+    <dimen name="marginleft_usernametoolbarprofile">72dp</dimen>
+    <dimen name="margintop_usernametoolbarprofile">-100dp</dimen>
+    <dimen name="limitY_usernametoolbarprofile">-250dp</dimen>
+    <dimen name="margintoptargety_usernametoolbarprofile">-5dp</dimen>
 </resources>

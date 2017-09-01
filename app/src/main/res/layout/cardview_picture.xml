@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="@dimen/height_card_view"
     cardview:cardCornerRadius="@dimen/cornerradius_cardview"
+    android:layout_marginBottom="@dimen/activity_vertical_margin"
 
     >
 
@@ -16,8 +17,9 @@
             android:id="@+id/imgPictureCard"
             android:layout_width="match_parent"
             android:layout_height="@dimen/height_card_view"
-            android:background="@drawable/llandscape"
-            android:scaleType="center"
+
+            android:scaleType="centerCrop"
+            android:transitionName="@string/transitionname_picture"
             />
         <LinearLayout
             android:layout_width="match_parent"
