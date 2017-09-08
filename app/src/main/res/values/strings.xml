@@ -21,6 +21,10 @@
     <string name="tab_profile">Yo</string>
 
 
+    <string name="facebook_app_id">1924691274452541</string>
+    <string name="fb_login_protocol_scheme">fb1924691274452541</string>
+
+
     <string name="login_error">Ocurrió un error: </string>
 
     <!-- TODO: Remove or change this placeholder text -->
