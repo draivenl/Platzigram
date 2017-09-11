@@ -30,6 +30,8 @@
     <string name="hint_title">Title</string>
     <string name="hint_description">Description</string>
     <string name="txt_button_create_post">Create Post</string>
+    <string name="menu_signout">Sign Out</string>
+    <string name="menu_about">About</string>
 
 
 </resources>
